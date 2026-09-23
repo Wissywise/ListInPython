@@ -1,0 +1,14 @@
+
+students = [
+    ["John", 16, [85, 90, 78]],   
+    ["Emily", 17, [92, 88, 95]],  
+    ["Michael", 16, [75, 80, 82]] 
+]
+
+
+print("Student Records:")
+for student in students:
+    name = student[0]
+    age = student[1]
+    marks = student[2]
+    print(f"Name: {name}, Age: {age}, Marks: {marks}")

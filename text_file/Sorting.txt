@@ -1,0 +1,10 @@
+# Define a list of 5 names
+names = ["David", "Alice", "Charlie", "Bob", "Eve"]
+
+# Sort the list in alphabetical order
+names.sort()
+print("Sorted list (A to Z):", names)
+
+# Reverse the sorted list
+names.reverse()
+print("Reversed list (Z to A):", names)
