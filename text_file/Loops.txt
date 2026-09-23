@@ -1,7 +1,0 @@
-grocery_list = ["Milk", "Eggs", "Bread", "Butter", "Apples"]
-
-print("Grocery Shopping List:")
-
-for item in grocery_list:
-    
-    print("- " + item)
